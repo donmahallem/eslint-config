@@ -8,6 +8,7 @@ jobs:
       matrix:
         node: [ '14', '16' ]
     name: Node ${{ matrix.node }} Tests
+    timeout-minutes: 8
     steps:
       - name: Check out the repo
         uses: actions/checkout@v2
