@@ -1,12 +1,12 @@
 /*
  * Package @donmahallem/eslint-config
- * Source https://donmahallem.github.io/js-libs/
+ * Source https://donmahallem.github.io/eslint-config/
  */
 
 /* eslint-env es6*/
-import path from 'path';
+import { join as pathJoin } from 'path';
 // eslint-disable-next-line @typescript-eslint/no-var-requires,@typescript-eslint/no-unsafe-assignment
-const packageInfo = require(path.join(process.cwd(), 'package.json'));
+const packageInfo = require(pathJoin(process.cwd(), 'package.json'));
 
 /**
  * Missing rules
