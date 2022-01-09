@@ -35,8 +35,10 @@
             }
         ]
     ],
-    "release": [
-        "main",
-        "master"
-    ]
+    "release": {
+        "branches": [
+            "main",
+            "master"
+        ]
+    }
 }
