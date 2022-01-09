@@ -19,8 +19,7 @@
         "lint:fix": "eslint -c ./dist/cjs/index.js --ext .ts ./src --fix",
         "postlint:fix": "prettier --config ./.prettierrc src/**/*.ts --write",
         "docs": "typedoc --options  ./typedoc.config.js",
-        "prepublishOnly": "npm run test && npm run docs && npm run build",
-        "version": "npm run build:readme"
+        "prepublishOnly": "npm run test && npm run docs && npm run build"
     },
     "files": [
         "dist/*",
