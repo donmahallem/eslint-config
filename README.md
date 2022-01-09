@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <b>My personal eslint config. Do not use!</b></br>
+  <b>My personal eslint. You better not use it!</b></br>
   <sub><sub>
 </p>
 
