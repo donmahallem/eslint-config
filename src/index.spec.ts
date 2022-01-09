@@ -1,6 +1,6 @@
 /*
  * Package @donmahallem/eslint-config
- * Source https://donmahallem.github.io/eslint-config/
+ * Source https://github.com/donmahallem/eslint-config
  */
 
 import { expect } from 'chai';
