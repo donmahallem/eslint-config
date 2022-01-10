@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/donmahallem/eslint-config/compare/v1.0.2...v1.0.3) (2022-01-10)
+
+
+### Bug Fixes
+
+* **deps:** update typescript-eslint monorepo to ~5.9.1 ([7a19d81](https://github.com/donmahallem/eslint-config/commit/7a19d812e6ff034d6662a4461b3eb90d6f0e0c4e))
+
 ## [1.0.2](https://github.com/donmahallem/eslint-config/compare/v1.0.1...v1.0.2) (2022-01-09)
 
 
