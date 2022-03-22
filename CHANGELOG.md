@@ -1,3 +1,10 @@
+## [1.0.37](https://github.com/donmahallem/eslint-config/compare/v1.0.36...v1.0.37) (2022-03-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency ajv to ~8.11.0 ([c0cde46](https://github.com/donmahallem/eslint-config/commit/c0cde46480fa115d310a42cfb853dc9f32b7cea7))
+
 ## [1.0.36](https://github.com/donmahallem/eslint-config/compare/v1.0.35...v1.0.36) (2022-03-21)
 
 
