@@ -1,3 +1,10 @@
+## [1.0.111](https://github.com/donmahallem/eslint-config/compare/v1.0.110...v1.0.111) (2022-07-17)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint to ~8.20.0 ([760f2f7](https://github.com/donmahallem/eslint-config/commit/760f2f79550327f8839055f36afc60e0610cc0e3))
+
 ## [1.0.110](https://github.com/donmahallem/eslint-config/compare/v1.0.109...v1.0.110) (2022-07-11)
 
 
