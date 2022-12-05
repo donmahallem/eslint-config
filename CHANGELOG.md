@@ -1,3 +1,5 @@
+## [1.0.179](https://github.com/donmahallem/eslint-config/compare/v1.0.178...v1.0.179) (2022-12-05)
+
 ## [1.0.178](https://github.com/donmahallem/eslint-config/compare/v1.0.177...v1.0.178) (2022-12-03)
 
 
