@@ -1,3 +1,10 @@
+## [1.0.181](https://github.com/donmahallem/eslint-config/compare/v1.0.180...v1.0.181) (2022-12-07)
+
+
+### Bug Fixes
+
+* **deps:** update dependency prettier to ~2.8.1 ([0550b14](https://github.com/donmahallem/eslint-config/commit/0550b1464f86a909b7e34202c55f437f6ec61115))
+
 ## [1.0.180](https://github.com/donmahallem/eslint-config/compare/v1.0.179...v1.0.180) (2022-12-05)
 
 
