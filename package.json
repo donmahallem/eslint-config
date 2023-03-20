@@ -58,7 +58,7 @@
         "eslint-plugin-jsdoc": "~40.1.0",
         "eslint-plugin-no-null": "~1.0.2",
         "eslint-plugin-prefer-arrow": "~1.2.3",
-        "prettier": "~2.8.4"
+        "prettier": "~2.8.5"
     },
     "devDependencies": {
         "@appnest/readme": "1.2.7",
