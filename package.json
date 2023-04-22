@@ -75,7 +75,7 @@
         "sinon": "15.0.4",
         "ts-node": "10.9.1",
         "tslib": "2.5.0",
-        "typedoc": "0.24.4",
+        "typedoc": "0.24.5",
         "typescript": "5.0.4"
     }
 }
