@@ -64,7 +64,7 @@
         "@appnest/readme": "1.2.7",
         "@semantic-release/changelog": "6.0.3",
         "@semantic-release/git": "10.0.1",
-        "@types/chai": "4.3.4",
+        "@types/chai": "4.3.5",
         "@types/mocha": "10.0.1",
         "@types/node": "18.16.2",
         "@types/sinon": "10.0.14",
