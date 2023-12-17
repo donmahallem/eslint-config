@@ -1,3 +1,78 @@
+# [2.0.0](https://github.com/donmahallem/eslint-config/compare/v1.0.195...v2.0.0) (2023-12-17)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint to ~8.32.0 ([7b70828](https://github.com/donmahallem/eslint-config/commit/7b708289c04c9b52be5350f6c0e246269ab2fa3c))
+* **deps:** update dependency eslint to ~8.33.0 ([f7848c7](https://github.com/donmahallem/eslint-config/commit/f7848c7b1952f9dff6798d9c5201fd09d9dc2767))
+* **deps:** update dependency eslint to ~8.34.0 ([697271e](https://github.com/donmahallem/eslint-config/commit/697271e55cb83069ec15fabeaf2225e82d86bec2))
+* **deps:** update dependency eslint to ~8.35.0 ([5d29403](https://github.com/donmahallem/eslint-config/commit/5d294038de6c93e55fce69d3a9c90aedf7e996b2))
+* **deps:** update dependency eslint to ~8.36.0 ([586bde0](https://github.com/donmahallem/eslint-config/commit/586bde096c85a9a116f2d7be037d9c85ec49c941))
+* **deps:** update dependency eslint to ~8.37.0 ([aa59d3b](https://github.com/donmahallem/eslint-config/commit/aa59d3b765a52b4329167e854db2756a1445179a))
+* **deps:** update dependency eslint to ~8.38.0 ([8bf9a0a](https://github.com/donmahallem/eslint-config/commit/8bf9a0a74498a0ed901e285022046a3c7529aab0))
+* **deps:** update dependency eslint to ~8.39.0 ([d6cad33](https://github.com/donmahallem/eslint-config/commit/d6cad337c0b6e0c42572e2aa5a0ff929f3bbc9e7))
+* **deps:** update dependency eslint to ~8.40.0 ([d99887a](https://github.com/donmahallem/eslint-config/commit/d99887a35905e2f3309d62f3fc2fb69689c712ab))
+* **deps:** update dependency eslint-config-prettier to ~8.7.0 ([fade2c9](https://github.com/donmahallem/eslint-config/commit/fade2c9d4ec15a29b23774a4c896c6ac6aca5932))
+* **deps:** update dependency eslint-config-prettier to ~8.8.0 ([3d0cefd](https://github.com/donmahallem/eslint-config/commit/3d0cefd597194e697e6f5b33470204db100dff3e))
+* **deps:** update dependency eslint-plugin-import to ~2.27.4 ([3d970fb](https://github.com/donmahallem/eslint-config/commit/3d970fb07852469f684cca88580c219d5bd1c515))
+* **deps:** update dependency eslint-plugin-import to ~2.27.5 ([dca8a17](https://github.com/donmahallem/eslint-config/commit/dca8a17f3eaffaabdd0276b5140e0d67ae20ba8c))
+* **deps:** update dependency eslint-plugin-jsdoc to ~39.6.6 ([88d1bb8](https://github.com/donmahallem/eslint-config/commit/88d1bb85aa75eb8cbc84da562b66ab8bbc4fbd07))
+* **deps:** update dependency eslint-plugin-jsdoc to ~39.6.7 ([6f38922](https://github.com/donmahallem/eslint-config/commit/6f3892225d7f3f61dc12bcda3e3e3545855e7165))
+* **deps:** update dependency eslint-plugin-jsdoc to ~39.6.8 ([c4e3313](https://github.com/donmahallem/eslint-config/commit/c4e3313596804d826ff042620e576c6b34c05fdb))
+* **deps:** update dependency eslint-plugin-jsdoc to ~39.6.9 ([3fa6ee6](https://github.com/donmahallem/eslint-config/commit/3fa6ee68927ec8e173a17b1553511ad5daa3c4be))
+* **deps:** update dependency eslint-plugin-jsdoc to ~39.7.4 ([ffd8f5e](https://github.com/donmahallem/eslint-config/commit/ffd8f5eaa37ee5581ed492747d529b1ff1168716))
+* **deps:** update dependency eslint-plugin-jsdoc to ~39.7.5 ([7102a8c](https://github.com/donmahallem/eslint-config/commit/7102a8c0cacacff3c868de250da5754c1cf3ef29))
+* **deps:** update dependency eslint-plugin-jsdoc to ~39.8.0 ([fff929b](https://github.com/donmahallem/eslint-config/commit/fff929b03f14011915e93b2eeea8a439bdad0b9f))
+* **deps:** update dependency eslint-plugin-jsdoc to ~39.9.1 ([d7e5e77](https://github.com/donmahallem/eslint-config/commit/d7e5e770618c722e4b1f94a4f6fcfafb4b67deca))
+* **deps:** update dependency eslint-plugin-jsdoc to ~40.0.1 ([eba0459](https://github.com/donmahallem/eslint-config/commit/eba0459043b416c5af19e7fec465077831066b95))
+* **deps:** update dependency eslint-plugin-jsdoc to ~40.0.2 ([3c6c392](https://github.com/donmahallem/eslint-config/commit/3c6c3920bf002a4407b2c8872e669f967ed581ff))
+* **deps:** update dependency eslint-plugin-jsdoc to ~40.0.3 ([72a0a19](https://github.com/donmahallem/eslint-config/commit/72a0a199dac3b5b288087928d4d3257a611166f8))
+* **deps:** update dependency eslint-plugin-jsdoc to ~40.1.0 ([0619a32](https://github.com/donmahallem/eslint-config/commit/0619a326a8588c6f83de39e8d83e88611a1073cf))
+* **deps:** update dependency eslint-plugin-jsdoc to ~40.1.1 ([dc4a495](https://github.com/donmahallem/eslint-config/commit/dc4a495ae101579f7a6b7ccb130c804a24357abf))
+* **deps:** update dependency eslint-plugin-jsdoc to ~40.1.2 ([5bc116e](https://github.com/donmahallem/eslint-config/commit/5bc116e3269a519db7b6c62e67d1dd983798a3c0))
+* **deps:** update dependency eslint-plugin-jsdoc to ~40.3.0 ([655b99b](https://github.com/donmahallem/eslint-config/commit/655b99b261865d508fec97a5c5f0277c182d7a35))
+* **deps:** update dependency eslint-plugin-jsdoc to ~41.1.2 ([5397d5a](https://github.com/donmahallem/eslint-config/commit/5397d5a3ec4afc94be086c7a98896ebe3b3611b3))
+* **deps:** update dependency eslint-plugin-jsdoc to ~43.0.6 ([4e7bc51](https://github.com/donmahallem/eslint-config/commit/4e7bc515b4db7ea2c22d91dbbeee33975c8ddfef))
+* **deps:** update dependency eslint-plugin-jsdoc to ~43.0.7 ([1dc72f6](https://github.com/donmahallem/eslint-config/commit/1dc72f6bc687464f5fea128a013d734a27864b7c))
+* **deps:** update dependency eslint-plugin-jsdoc to ~43.2.0 ([7f1a357](https://github.com/donmahallem/eslint-config/commit/7f1a3574808b9ee1e4147984082b72ea551cd766))
+* **deps:** update dependency eslint-plugin-jsdoc to v40 ([b72d2b1](https://github.com/donmahallem/eslint-config/commit/b72d2b1a4fc3b36563b624b5e26933483969a393))
+* **deps:** update dependency eslint-plugin-jsdoc to v41 ([4b217fc](https://github.com/donmahallem/eslint-config/commit/4b217fcbec31e2204cdd41d444612dccb7b0718b))
+* **deps:** update dependency eslint-plugin-jsdoc to v43 ([49763ba](https://github.com/donmahallem/eslint-config/commit/49763bac44a676de60aeab9ff14c8fa8a19861ba))
+* **deps:** update dependency prettier to ~2.8.3 ([8c97beb](https://github.com/donmahallem/eslint-config/commit/8c97bebfc652f688739bf1eef142d595c5b05d06))
+* **deps:** update dependency prettier to ~2.8.4 ([eede294](https://github.com/donmahallem/eslint-config/commit/eede2944fdbac7a25a4d85376a8f555a94759269))
+* **deps:** update dependency prettier to ~2.8.5 ([0c671b7](https://github.com/donmahallem/eslint-config/commit/0c671b72ec7cc4f6b3c4f82bf6feed62f0d0abd7))
+* **deps:** update dependency prettier to ~2.8.6 ([b8edd64](https://github.com/donmahallem/eslint-config/commit/b8edd645ec6236deb8dab9b81715b863b3c17cb1))
+* **deps:** update dependency prettier to ~2.8.7 ([84efd4b](https://github.com/donmahallem/eslint-config/commit/84efd4ba59839341eea9a67fe0e5a1cde6898f06))
+* **deps:** update dependency prettier to ~2.8.8 ([b98e312](https://github.com/donmahallem/eslint-config/commit/b98e312eae03b982b763063ae4a0bfec74b51a99))
+* **deps:** update typescript-eslint monorepo to ~5.48.1 ([b786b65](https://github.com/donmahallem/eslint-config/commit/b786b65cf92f4728541dfc9a2b67107815f28906))
+* **deps:** update typescript-eslint monorepo to ~5.48.2 ([32268f5](https://github.com/donmahallem/eslint-config/commit/32268f52c23f90ab7cd0db485061cd93ac54b321))
+* **deps:** update typescript-eslint monorepo to ~5.49.0 ([b28fbde](https://github.com/donmahallem/eslint-config/commit/b28fbdea90a6dd7a53e430eb77d644ad122450ac))
+* **deps:** update typescript-eslint monorepo to ~5.50.0 ([a5b3584](https://github.com/donmahallem/eslint-config/commit/a5b358403f6cb1cb00cec8d0f43a6f6eddf3dd86))
+* **deps:** update typescript-eslint monorepo to ~5.51.0 ([467dedc](https://github.com/donmahallem/eslint-config/commit/467dedc862a97dcfce77be2a8bcbd8f727688140))
+* **deps:** update typescript-eslint monorepo to ~5.52.0 ([f9745d8](https://github.com/donmahallem/eslint-config/commit/f9745d80eb38ca736c7212d7419a032d41f35e5e))
+* **deps:** update typescript-eslint monorepo to ~5.53.0 ([b815f15](https://github.com/donmahallem/eslint-config/commit/b815f15f90df2e3bba2bc5e81864249d34501d7b))
+* **deps:** update typescript-eslint monorepo to ~5.54.0 ([3c1e2d7](https://github.com/donmahallem/eslint-config/commit/3c1e2d766b088059e0bb701b2dda88423b511620))
+* **deps:** update typescript-eslint monorepo to ~5.54.1 ([d72a859](https://github.com/donmahallem/eslint-config/commit/d72a859dd35dbcfec21131e06965fdbe9de96f7b))
+* **deps:** update typescript-eslint monorepo to ~5.55.0 ([4fa1725](https://github.com/donmahallem/eslint-config/commit/4fa17255c591c5427b38d31812d5a5e6b94a49f9))
+* **deps:** update typescript-eslint monorepo to ~5.56.0 ([eed3447](https://github.com/donmahallem/eslint-config/commit/eed344769e1923b3346b66c081e1d0fafcc5f090))
+* **deps:** update typescript-eslint monorepo to ~5.57.0 ([c0bb049](https://github.com/donmahallem/eslint-config/commit/c0bb049737f5632762fdd5eccab739e3df134a3e))
+* **deps:** update typescript-eslint monorepo to ~5.57.1 ([27c861c](https://github.com/donmahallem/eslint-config/commit/27c861c67a7dbba3472f0a275a6b77d8e8b4e8ca))
+* **deps:** update typescript-eslint monorepo to ~5.58.0 ([7d0d312](https://github.com/donmahallem/eslint-config/commit/7d0d3126aa99515f88a9cdf5edd80558b5712485))
+* **deps:** update typescript-eslint monorepo to ~5.59.0 ([d1edd43](https://github.com/donmahallem/eslint-config/commit/d1edd43465e8cb3bf025ffdb43c3615d268a62f1))
+* **deps:** update typescript-eslint monorepo to ~5.59.1 ([1f2d311](https://github.com/donmahallem/eslint-config/commit/1f2d311c93554c707be30ff8ef29096592adfa71))
+* **deps:** update typescript-eslint monorepo to ~5.59.2 ([9edfbec](https://github.com/donmahallem/eslint-config/commit/9edfbec6262bbc54353e32be19efcc8bc4a083cb))
+* **deps:** update typescript-eslint monorepo to ~5.59.5 ([93848aa](https://github.com/donmahallem/eslint-config/commit/93848aabc043c23f2ff1dd4fddd5af9a4287d3c2))
+
+
+### Features
+
+* require node >=18 ([3280629](https://github.com/donmahallem/eslint-config/commit/3280629ace7ea8483dde812bca11abbd61574f6e))
+
+
+### BREAKING CHANGES
+
+* older node versions aren't supported anymore
+
 ## [1.0.195](https://github.com/donmahallem/eslint-config/compare/v1.0.194...v1.0.195) (2023-01-07)
 
 
