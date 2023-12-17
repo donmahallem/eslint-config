@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/donmahallem/eslint-config/compare/v2.0.0...v2.0.1) (2023-12-17)
+
+
+### Bug Fixes
+
+* **deps:** update [@typescript-eslint](https://github.com/typescript-eslint) packages to 6.14.0 ([#471](https://github.com/donmahallem/eslint-config/issues/471)) ([b7d3594](https://github.com/donmahallem/eslint-config/commit/b7d3594af392a73ca37e4f145d38d4ac1fcda12a))
+
 # [2.0.0](https://github.com/donmahallem/eslint-config/compare/v1.0.195...v2.0.0) (2023-12-17)
 
 
