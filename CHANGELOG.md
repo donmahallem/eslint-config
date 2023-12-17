@@ -1,3 +1,10 @@
+## [2.0.5](https://github.com/donmahallem/eslint-config/compare/v2.0.4...v2.0.5) (2023-12-17)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to v9 ([8fe6867](https://github.com/donmahallem/eslint-config/commit/8fe68678ad82e1e37121303f9fce9040ef11171c))
+
 ## [2.0.4](https://github.com/donmahallem/eslint-config/compare/v2.0.3...v2.0.4) (2023-12-17)
 
 
