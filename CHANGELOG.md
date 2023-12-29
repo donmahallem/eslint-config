@@ -1,3 +1,10 @@
+## [2.0.12](https://github.com/donmahallem/eslint-config/compare/v2.0.11...v2.0.12) (2023-12-29)
+
+
+### Bug Fixes
+
+* **deps:** append peer deps ([#477](https://github.com/donmahallem/eslint-config/issues/477)) ([44181cf](https://github.com/donmahallem/eslint-config/commit/44181cf9ab12e8e13313290a1a3a93be7ef6f542))
+
 ## [2.0.11](https://github.com/donmahallem/eslint-config/compare/v2.0.10...v2.0.11) (2023-12-25)
 
 
