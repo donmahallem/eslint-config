@@ -1,3 +1,10 @@
+## [2.0.28](https://github.com/donmahallem/eslint-config/compare/v2.0.27...v2.0.28) (2024-03-04)
+
+
+### Bug Fixes
+
+* **deps:** update [@typescript-eslint](https://github.com/typescript-eslint) monorepo 7.1.0 to ~7.1.1 ([8896ed0](https://github.com/donmahallem/eslint-config/commit/8896ed0d295072296e8b0e63d1f810ee66001673))
+
 ## [2.0.27](https://github.com/donmahallem/eslint-config/compare/v2.0.26...v2.0.27) (2024-02-19)
 
 
