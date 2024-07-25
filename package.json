@@ -81,7 +81,7 @@
         "@types/mocha": "10.0.7",
         "@types/node": "20.14.12",
         "@types/sinon": "17.0.3",
-        "chai": "4.4.1",
+        "chai": "4.5.0",
         "colors": "1.4.0",
         "mocha": "10.7.0",
         "nyc": "17.0.0",
