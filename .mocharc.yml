@@ -8,7 +8,7 @@ delay: false
 diff: true
 exit: false # could be expressed as "no-exit: true"
 extension:
-  - ts
+    - ts
 # fgrep and grep are mutually exclusive
 # fgrep: something
 forbid-only: false
@@ -28,6 +28,6 @@ require: 'ts-node/register'
 retries: 1
 slow: 75
 sort: false
-spec: src/**/*.spec.ts # the positional arguments!
+spec: src/**/*.spec.js # the positional arguments!
 ui: bdd
 watch: false
