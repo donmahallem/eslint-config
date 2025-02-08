@@ -6,7 +6,7 @@ jobs:
         runs-on: ubuntu-latest
         strategy:
             matrix:
-                node: ['18', '20']
+                node: ['20', '22']
         name: Node ${{ matrix.node }} Tests
         timeout-minutes: 8
         steps:
@@ -33,10 +33,12 @@ jobs:
                   name: Test
                   fail_ci_if_error: false
                   verbose: false
-    finish:
-        needs: [test_project]
-        name: Finish Test
+    status-check:
+        if: always()
+        needs:
+            - test_project
         runs-on: ubuntu-latest
         steps:
-            - name: Coveralls Finished
-              run: echo "finish"
+            - uses: re-actors/alls-green@v1.2.2
+              with:
+                  jobs: ${{ toJSON(needs) }}
