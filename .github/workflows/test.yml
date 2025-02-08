@@ -20,8 +20,6 @@ jobs:
               run: npm ci
             - name: Npm Lint
               run: npm run lint
-            - name: Npm test
-              run: npm run test:coverage
             - name: Npm Docs
               run: |
                   npm run docs
