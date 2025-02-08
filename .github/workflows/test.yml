@@ -32,6 +32,7 @@ jobs:
                   fail_ci_if_error: false
                   verbose: false
     status-check:
+        name: Finish Test
         if: always()
         needs:
             - test_project
