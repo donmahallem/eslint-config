@@ -1,3 +1,10 @@
+## [2.1.4](https://github.com/donmahallem/eslint-config/compare/v2.1.3...v2.1.4) (2025-02-08)
+
+
+### Bug Fixes
+
+* add main entry to package.json ([b74ae2d](https://github.com/donmahallem/eslint-config/commit/b74ae2d164e96508c742b0cd7e22c80e11e9af4f))
+
 ## [2.1.3](https://github.com/donmahallem/eslint-config/compare/v2.1.2...v2.1.3) (2025-02-08)
 
 
