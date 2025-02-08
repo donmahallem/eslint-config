@@ -1,3 +1,10 @@
+## [2.1.5](https://github.com/donmahallem/eslint-config/compare/v2.1.4...v2.1.5) (2025-02-08)
+
+
+### Bug Fixes
+
+* **deps:** declare typescript-eslint as dependency ([#816](https://github.com/donmahallem/eslint-config/issues/816)) ([f20554a](https://github.com/donmahallem/eslint-config/commit/f20554a51af1d03528e750809c8162dc3e1519e4))
+
 ## [2.1.4](https://github.com/donmahallem/eslint-config/compare/v2.1.3...v2.1.4) (2025-02-08)
 
 
