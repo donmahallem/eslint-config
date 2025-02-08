@@ -33,12 +33,12 @@ jobs:
                   name: Test
                   fail_ci_if_error: false
                   verbose: false
-  status-check:
-    if: always()
-    needs:
-      - test_project
-    runs-on: ubuntu-latest
-    steps:
-      - uses: re-actors/alls-green@v1.2.2
-        with:
-          jobs: ${{ toJSON(needs) }}
+    status-check:
+        if: always()
+        needs:
+            - test_project
+        runs-on: ubuntu-latest
+        steps:
+            - uses: re-actors/alls-green@v1.2.2
+              with:
+                  jobs: ${{ toJSON(needs) }}
