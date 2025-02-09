@@ -1,3 +1,10 @@
+# [2.3.0](https://github.com/donmahallem/eslint-config/compare/v2.2.2...v2.3.0) (2025-02-09)
+
+
+### Features
+
+* use file header checking ([#821](https://github.com/donmahallem/eslint-config/issues/821)) ([fa5d1f4](https://github.com/donmahallem/eslint-config/commit/fa5d1f45b874ec5a675cf1ac342f530fa59e81d2))
+
 ## [2.2.2](https://github.com/donmahallem/eslint-config/compare/v2.2.1...v2.2.2) (2025-02-09)
 
 
