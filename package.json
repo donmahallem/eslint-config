@@ -54,7 +54,7 @@
         "eslint-plugin-mocha": "~10.5.0",
         "eslint-plugin-no-null": "~1.0.2",
         "eslint-plugin-prefer-arrow": "~1.2.3",
-        "prettier": "~3.4.0",
+        "prettier": "~3.5.0",
         "typescript-eslint": "~8.23.0"
     },
     "peerDependencies": {
@@ -67,7 +67,7 @@
         "eslint-plugin-jsdoc": "~50.6.0",
         "eslint-plugin-no-null": "~1.0.2",
         "eslint-plugin-prefer-arrow": "~1.2.3",
-        "prettier": "~3.4.0"
+        "prettier": "~3.5.0"
     },
     "devDependencies": {
         "@appnest/readme": "1.2.7",
