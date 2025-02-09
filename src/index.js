@@ -9,5 +9,11 @@ export default tseslint.config(
     eslint.configs.recommended,
     tseslint.configs.recommended,
     mochaPlugin.configs.flat.recommended,
-    pluginChaiFriendly.configs.recommendedFlat
+    pluginChaiFriendly.configs.recommendedFlat,
+    {
+        files: ['**/*.spec.ts'],
+        rules: {
+            '@typescript-eslint/no-unused-expressions': 'off',
+        },
+    }
 );
