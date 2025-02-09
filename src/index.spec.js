@@ -1,4 +1,4 @@
-/*
+/**
  * Package @donmahallem/eslint-config
  * Source https://github.com/donmahallem/eslint-config
  */
