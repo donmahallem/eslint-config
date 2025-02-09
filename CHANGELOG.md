@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/donmahallem/eslint-config/compare/v2.2.0...v2.2.1) (2025-02-09)
+
+
+### Bug Fixes
+
+* ignore no-unused-expressions in ts spec files ([#820](https://github.com/donmahallem/eslint-config/issues/820)) ([e024586](https://github.com/donmahallem/eslint-config/commit/e02458675745302d5bc67685096751081cfaac20))
+
 # [2.2.0](https://github.com/donmahallem/eslint-config/compare/v2.1.5...v2.2.0) (2025-02-09)
 
 
