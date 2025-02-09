@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/donmahallem/eslint-config/compare/v2.1.5...v2.2.0) (2025-02-09)
+
+
+### Features
+
+* **deps:** add eslint-plugin-chai-friendly ([#817](https://github.com/donmahallem/eslint-config/issues/817)) ([a363531](https://github.com/donmahallem/eslint-config/commit/a363531bc84ab21409d5917c1dcff4a351b8e4bf))
+
 ## [2.1.5](https://github.com/donmahallem/eslint-config/compare/v2.1.4...v2.1.5) (2025-02-08)
 
 
