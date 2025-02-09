@@ -11,7 +11,7 @@
         "test:coverage": "nyc --nycrc-path ./.nycrc.json npm run test",
         "lint": "eslint -c ./src/index.js ./src",
         "postlint": "prettier --config ./.prettierrc src/* --check",
-        "lint:fix": "eslint -c ./dist/cjs/index.js --ext .ts ./src --fix",
+        "lint:fix": "eslint -c ./src/index.js ./src --fix",
         "postlint:fix": "prettier --config ./.prettierrc src/**/*.ts --write",
         "docs": "typedoc --options  ./typedoc.json",
         "version": "npm run build:readme"
@@ -48,7 +48,7 @@
         "eslint": "~9.20.0",
         "eslint-config-prettier": "~10.0.0",
         "eslint-plugin-chai-friendly": "~1.0.1",
-        "eslint-plugin-header": "~3.1.1",
+        "eslint-plugin-headers": "~1.2.1",
         "eslint-plugin-import": "~2.31.0",
         "eslint-plugin-jsdoc": "~50.6.0",
         "eslint-plugin-mocha": "~10.5.0",
