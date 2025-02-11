@@ -42,8 +42,8 @@
         "access": "public"
     },
     "dependencies": {
-        "@typescript-eslint/eslint-plugin": "~8.23.0",
-        "@typescript-eslint/parser": "~8.23.0",
+        "@typescript-eslint/eslint-plugin": "~8.24.0",
+        "@typescript-eslint/parser": "~8.24.0",
         "ajv": "~8.17.1",
         "eslint": "~9.20.0",
         "eslint-config-prettier": "~10.0.0",
@@ -58,8 +58,8 @@
         "typescript-eslint": "~8.23.0"
     },
     "peerDependencies": {
-        "@typescript-eslint/eslint-plugin": "~8.23.0",
-        "@typescript-eslint/parser": "~8.23.0",
+        "@typescript-eslint/eslint-plugin": "~8.24.0",
+        "@typescript-eslint/parser": "~8.24.0",
         "eslint": "~9.20.0",
         "eslint-config-prettier": "~10.0.0",
         "eslint-plugin-header": "~3.1.1",
@@ -77,8 +77,8 @@
         "@types/mocha": "10.0.10",
         "@types/node": "22.13.1",
         "@types/sinon": "17.0.3",
-        "@typescript-eslint/eslint-plugin": "8.23.0",
-        "@typescript-eslint/parser": "8.23.0",
+        "@typescript-eslint/eslint-plugin": "8.24.0",
+        "@typescript-eslint/parser": "8.24.0",
         "chai": "5.1.2",
         "colors": "1.4.0",
         "eslint": "9.20.0",
