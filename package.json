@@ -42,8 +42,8 @@
         "access": "public"
     },
     "dependencies": {
-        "@typescript-eslint/eslint-plugin": "~8.24.0",
-        "@typescript-eslint/parser": "~8.24.0",
+        "@typescript-eslint/eslint-plugin": "~8.24.1",
+        "@typescript-eslint/parser": "~8.24.1",
         "ajv": "~8.17.1",
         "eslint": "~9.20.1",
         "eslint-config-prettier": "~10.0.0",
@@ -77,8 +77,8 @@
         "@types/mocha": "10.0.10",
         "@types/node": "22.13.4",
         "@types/sinon": "17.0.3",
-        "@typescript-eslint/eslint-plugin": "8.24.0",
-        "@typescript-eslint/parser": "8.24.0",
+        "@typescript-eslint/eslint-plugin": "8.24.1",
+        "@typescript-eslint/parser": "8.24.1",
         "chai": "5.2.0",
         "colors": "1.4.0",
         "eslint": "9.20.1",
