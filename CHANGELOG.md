@@ -1,3 +1,10 @@
+## [2.3.10](https://github.com/donmahallem/eslint-config/compare/v2.3.9...v2.3.10) (2025-02-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint to v9.21.0 ([#834](https://github.com/donmahallem/eslint-config/issues/834)) ([7600034](https://github.com/donmahallem/eslint-config/commit/76000340b6290ace5d4d0f53cb6a7df9544285d8))
+
 ## [2.3.9](https://github.com/donmahallem/eslint-config/compare/v2.3.8...v2.3.9) (2025-02-22)
 
 
