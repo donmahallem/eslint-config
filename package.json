@@ -42,19 +42,18 @@
         "access": "public"
     },
     "dependencies": {
-        "@typescript-eslint/eslint-plugin": "~8.24.1",
-        "@typescript-eslint/parser": "~8.24.1",
-        "ajv": "~8.17.1",
+        "@typescript-eslint/eslint-plugin": "~8.24.0",
+        "@typescript-eslint/parser": "~8.24.0",
         "eslint": "~9.21.0",
         "eslint-config-prettier": "~10.0.0",
         "eslint-plugin-chai-friendly": "~1.0.1",
         "eslint-plugin-headers": "~1.2.1",
         "eslint-plugin-import": "~2.31.0",
-        "eslint-plugin-jsdoc": "~50.6.3",
+        "eslint-plugin-jsdoc": "~50.6.0",
         "eslint-plugin-mocha": "~10.5.0",
         "eslint-plugin-no-null": "~1.0.2",
         "eslint-plugin-prefer-arrow": "~1.2.3",
-        "prettier": "~3.5.2",
+        "prettier": "~3.5.0",
         "typescript-eslint": "~8.24.1"
     },
     "peerDependencies": {
