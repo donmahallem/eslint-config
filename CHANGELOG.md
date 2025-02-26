@@ -1,3 +1,10 @@
+## [2.3.14](https://github.com/donmahallem/eslint-config/compare/v2.3.13...v2.3.14) (2025-02-26)
+
+
+### Bug Fixes
+
+* **deps:** remove redundant dependency declerations ([#844](https://github.com/donmahallem/eslint-config/issues/844)) ([bd5782f](https://github.com/donmahallem/eslint-config/commit/bd5782fbf872b0c2c4f307dfa699e89b1bc7cae4))
+
 ## [2.3.13](https://github.com/donmahallem/eslint-config/compare/v2.3.12...v2.3.13) (2025-02-26)
 
 
