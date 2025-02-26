@@ -1,3 +1,10 @@
+## [2.3.12](https://github.com/donmahallem/eslint-config/compare/v2.3.11...v2.3.12) (2025-02-26)
+
+
+### Bug Fixes
+
+* **deps:** remove unused ajv dependency ([#839](https://github.com/donmahallem/eslint-config/issues/839)) ([e78e51c](https://github.com/donmahallem/eslint-config/commit/e78e51ce7c95ba988a2940d6ebea86e39564a65f))
+
 ## [2.3.11](https://github.com/donmahallem/eslint-config/compare/v2.3.10...v2.3.11) (2025-02-24)
 
 ## [2.3.10](https://github.com/donmahallem/eslint-config/compare/v2.3.9...v2.3.10) (2025-02-22)
