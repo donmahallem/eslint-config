@@ -42,8 +42,8 @@
         "access": "public"
     },
     "dependencies": {
-        "@typescript-eslint/eslint-plugin": "~8.25.0",
-        "@typescript-eslint/parser": "~8.25.0",
+        "@typescript-eslint/eslint-plugin": "~8.26.0",
+        "@typescript-eslint/parser": "~8.26.0",
         "eslint-config-prettier": "~10.0.0",
         "eslint-plugin-chai-friendly": "~1.0.1",
         "eslint-plugin-headers": "~1.2.1",
