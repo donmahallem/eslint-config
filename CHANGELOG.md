@@ -1,3 +1,10 @@
+## [2.3.22](https://github.com/donmahallem/eslint-config/compare/v2.3.21...v2.3.22) (2025-03-07)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to ~10.1.1 ([#847](https://github.com/donmahallem/eslint-config/issues/847)) ([539abcd](https://github.com/donmahallem/eslint-config/commit/539abcd8762a6991d293c30c72bcdeb113ca0132))
+
 ## [2.3.21](https://github.com/donmahallem/eslint-config/compare/v2.3.20...v2.3.21) (2025-03-04)
 
 
