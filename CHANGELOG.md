@@ -1,3 +1,5 @@
+## [2.3.35](https://github.com/donmahallem/eslint-config/compare/v2.3.34...v2.3.35) (2025-03-31)
+
 ## [2.3.34](https://github.com/donmahallem/eslint-config/compare/v2.3.33...v2.3.34) (2025-03-25)
 
 
