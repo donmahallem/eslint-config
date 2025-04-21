@@ -1,6 +1,6 @@
 {
     "name": "@donmahallem/eslint-config",
-    "version": "2.3.44",
+    "version": "2.3.45",
     "description": "My personal eslint. You better not use it!",
     "main": "src/index.js",
     "module": "src/index.js",
