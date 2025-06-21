@@ -1,3 +1,10 @@
+## [2.3.83](https://github.com/donmahallem/eslint-config/compare/v2.3.82...v2.3.83) (2025-06-21)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-import to ~2.32.0 ([#977](https://github.com/donmahallem/eslint-config/issues/977)) ([2668cbd](https://github.com/donmahallem/eslint-config/commit/2668cbd1da575b0165745ff4f1b20a00473402e2))
+
 ## [2.3.82](https://github.com/donmahallem/eslint-config/compare/v2.3.81...v2.3.82) (2025-06-18)
 
 
