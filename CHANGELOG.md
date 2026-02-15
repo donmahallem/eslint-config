@@ -1,3 +1,10 @@
+## [2.3.243](https://github.com/donmahallem/eslint-config/compare/v2.3.242...v2.3.243) (2026-02-15)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-headers to ~1.3.4 ([#1258](https://github.com/donmahallem/eslint-config/issues/1258)) ([2475e72](https://github.com/donmahallem/eslint-config/commit/2475e724a7cf5cdbfce279dbfb71d6ae89de771c))
+
 ## [2.3.242](https://github.com/donmahallem/eslint-config/compare/v2.3.241...v2.3.242) (2026-02-10)
 
 
