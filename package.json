@@ -46,7 +46,7 @@
         "@typescript-eslint/parser": "~8.55.0",
         "eslint-config-prettier": "~10.1.8",
         "eslint-plugin-chai-friendly": "~1.1.0",
-        "eslint-plugin-headers": "~1.3.3",
+        "eslint-plugin-headers": "~1.3.4",
         "eslint-plugin-import": "~2.32.0",
         "eslint-plugin-jsdoc": "~62.5.4",
         "eslint-plugin-mocha": "~10.5.0",
