@@ -1,3 +1,10 @@
+## [2.3.266](https://github.com/donmahallem/eslint-config/compare/v2.3.265...v2.3.266) (2026-04-01)
+
+
+### Bug Fixes
+
+* **deps:** update [@typescript-eslint](https://github.com/typescript-eslint) monorepo 8.57.1 to ~8.58.0 ([#1294](https://github.com/donmahallem/eslint-config/issues/1294)) ([20724c1](https://github.com/donmahallem/eslint-config/commit/20724c18b51c28d71b7d781191588c80b2910899))
+
 ## [2.3.265](https://github.com/donmahallem/eslint-config/compare/v2.3.264...v2.3.265) (2026-04-01)
 
 
