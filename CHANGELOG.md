@@ -1,3 +1,10 @@
+## [2.3.270](https://github.com/donmahallem/eslint-config/compare/v2.3.269...v2.3.270) (2026-04-07)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-chai-friendly to ~1.2.0 ([#1302](https://github.com/donmahallem/eslint-config/issues/1302)) ([beedf57](https://github.com/donmahallem/eslint-config/commit/beedf577f1be97996b79c97a40010b6d86428fe2))
+
 ## [2.3.269](https://github.com/donmahallem/eslint-config/compare/v2.3.268...v2.3.269) (2026-04-06)
 
 ## [2.3.268](https://github.com/donmahallem/eslint-config/compare/v2.3.267...v2.3.268) (2026-04-01)
