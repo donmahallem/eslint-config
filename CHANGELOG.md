@@ -1,3 +1,10 @@
+## [2.3.289](https://github.com/donmahallem/eslint-config/compare/v2.3.288...v2.3.289) (2026-05-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency typescript-eslint to ~8.59.3 ([#1329](https://github.com/donmahallem/eslint-config/issues/1329)) ([6fb6793](https://github.com/donmahallem/eslint-config/commit/6fb6793d4942e122bb8f7c39b2e6d5a2ea2b5601))
+
 ## [2.3.288](https://github.com/donmahallem/eslint-config/compare/v2.3.287...v2.3.288) (2026-05-11)
 
 
