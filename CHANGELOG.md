@@ -1,3 +1,10 @@
+## [2.3.322](https://github.com/donmahallem/eslint-config/compare/v2.3.321...v2.3.322) (2026-06-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency prettier to ~3.9.1 ([#1372](https://github.com/donmahallem/eslint-config/issues/1372)) ([9d7b343](https://github.com/donmahallem/eslint-config/commit/9d7b343f7d4494808d9dee58ba3391df9a64435a))
+
 ## [2.3.321](https://github.com/donmahallem/eslint-config/compare/v2.3.320...v2.3.321) (2026-06-27)
 
 
