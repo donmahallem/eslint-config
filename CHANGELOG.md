@@ -1,3 +1,10 @@
+## [2.3.444](https://github.com/donmahallem/eslint-config/compare/v2.3.443...v2.3.444) (2026-11-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-plugin-jsdoc to ~65.5.4 ([#1527](https://github.com/donmahallem/eslint-config/issues/1527)) ([1e44600](https://github.com/donmahallem/eslint-config/commit/1e44600437e52883565e430ef0a4f40d59cd9c30))
+
 ## [2.3.443](https://github.com/donmahallem/eslint-config/compare/v2.3.442...v2.3.443) (2026-11-24)
 
 
